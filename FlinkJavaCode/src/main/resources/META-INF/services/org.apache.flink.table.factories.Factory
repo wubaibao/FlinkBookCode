@@ -1,0 +1,2 @@
+com.wubaibao.flinkjava.code.chapter9.userdefinedconnector.source.SocketDynamicTableSourceFactory
+com.wubaibao.flinkjava.code.chapter9.userdefinedconnector.sink.RedisDynamicTableSinkFactory
