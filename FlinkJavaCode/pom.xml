@@ -276,7 +276,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>com.wubaibao.flinkjava.code.chapter_k8s.WordCount</mainClass>
+              <mainClass>com.wubaibao.flinkjava.code.chapter5.WordCount</mainClass>
             </manifest>
           </archive>
         </configuration>

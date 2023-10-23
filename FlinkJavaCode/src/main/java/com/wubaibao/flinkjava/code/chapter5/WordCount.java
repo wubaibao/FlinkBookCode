@@ -1,4 +1,4 @@
-package com.wubaibao.flinkjava.code.chapter_k8s;
+package com.wubaibao.flinkjava.code.chapter5;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.api.java.functions.KeySelector;
